@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (C++ Introduction.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  numberGuesser.cpp
+D:\ArtFX\Exercise\C++ Introduction\numberGuesser.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++ Introduction.vcxproj -> D:\ArtFX\Exercise\Debug\numberGuesser.exe

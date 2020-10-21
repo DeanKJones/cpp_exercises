@@ -1,0 +1,6 @@
+D:\ArtFX\Exercise\C++ Introduction\Debug\build.exe
+D:\ArtFX\Exercise\C++ Introduction\Debug\build.pdb
+D:\ArtFX\C++ Introduction\Debug\build.exe
+D:\ArtFX\C++ Introduction\Debug\build.pdb
+D:\ArtFX\c++\C++ Introduction\Debug\build.exe
+D:\ArtFX\c++\C++ Introduction\Debug\build.pdb
