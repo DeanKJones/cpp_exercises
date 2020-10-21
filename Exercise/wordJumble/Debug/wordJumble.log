@@ -1,0 +1,3 @@
+﻿  wordJumble.cpp
+D:\ArtFX\Exercise\C++ Introduction\wordJumble.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  wordJumble.vcxproj -> D:\ArtFX\Exercise\Debug\wordJumble.exe
