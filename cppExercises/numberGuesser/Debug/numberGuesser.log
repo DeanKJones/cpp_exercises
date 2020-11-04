@@ -1,0 +1,3 @@
+﻿  numberGuesser.cpp
+D:\ArtFX\cppExercises\numberGuesser\numberGuesser.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  numberGuesser.vcxproj -> D:\ArtFX\cppExercises\Debug\numberGuesser.exe
