@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Tamagochi.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Tamagotchi.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tamagotchi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
